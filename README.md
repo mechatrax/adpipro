@@ -1,4 +1,4 @@
-# ADPi Pro（Raspberry Pi 対応高精度 A/D 変換モジュール）
+# ADPi Pro（ラズベリーパイ用高精度 A/D 変換モジュール）
 ここでは、ADPi Pro の資料を公開しています。  
 詳細についてはリンク先の wiki を参照してください。
 
